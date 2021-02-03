@@ -3,6 +3,7 @@
 - 18.4.5 tiktok安裝包: [谷歌雲盤](https://drive.google.com/drive/folders/1DIvtwK9ZB08QIgFQqt2x-Lz1mH69lHx7?usp=sharing)
 - QuantumultX安裝包
 - QuantumultX配置文件
+- 开启重写跟MitM
 
 ## 不懂的看截圖
 
@@ -13,7 +14,7 @@
 
 ### 3條重寫規則：
 
-> - 307   (?<=_region=)CN(?=&)  JP
+> - 307   (?<=_region=)CN(?=&)  JP 备注：JP不固定输入名称简写可以换区
 > - 307 (?<=&mcc_mnc=)4 2
 > - 302 ^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+)  $1$3
 
