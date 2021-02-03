@@ -12,9 +12,10 @@
 > - *.tik-tokapi.com
 
 ### 3條重寫規則：
+
 > - 307   (?<=_region=)CN(?=&)  JP
 > - 307 (?<=&mcc_mnc=)4 2
-> 302 ^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+)  $1$3
+> - 302 ^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+)  $1$3
 
 ![i](https://github.com/hkjswong/tiktok-unlock/blob/main/IMG_0540.PNG)
 ![2](https://github.com/hkjswong/tiktok-unlock/blob/main/IMG_0541.PNG)
