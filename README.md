@@ -16,6 +16,10 @@
 > - 307 (?<=&mcc_mnc=)4 2
 > 302 ^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+)  $1$3
 
+![i](https://github.com/hkjswong/tiktok-unlock/blob/main/IMG_0540.PNG)
+![2](https://github.com/hkjswong/tiktok-unlock/blob/main/IMG_0541.PNG)
+![3](https://github.com/hkjswong/tiktok-unlock/blob/main/IMG_0542.PNG)
+
 ### 聯繫方式 :bell:
 
 - [Telegram](https://t.me/xwring) :point_left:
